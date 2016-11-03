@@ -1,0 +1,53 @@
+html {
+	background-color: #888;
+}
+
+h1 {
+	text-decoration: underline;
+}
+
+h2 {
+	text-align: center;
+}
+
+#container {
+	width: 800px;
+	margin: 0 auto;
+}
+
+#menu {
+	float: left;
+	width: 170px;
+	height: 180px;
+	padding: 10px 0;
+	border: 1px dashed black;
+}
+
+#topimage {
+	float: left;
+	width: 625px;
+}
+
+#jakeimage {
+	width: 50%;
+	height: auto;
+	margin-left: 150px;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.infobox {
+	width: 375px;
+	float: left;
+	text-align: center;
+	padding: 0 10px;
+}
+
+.verticaldivide {
+	width: 3px;
+	height: 200px;
+	background-color: black;
+	float: left;
+}

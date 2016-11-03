@@ -1,0 +1,67 @@
+h1, h4 {
+	text-align: center;
+}
+
+.floatbox {
+	border: 1px solid blue;
+	width: 33%;
+	height: 50px;
+	background-color: #eef;
+	float: left;
+	text-align: center;
+	line-height: 50px;
+}
+
+.clearfix {
+	clear: both;
+}
+
+table, th, td {
+	border: 1px solid black;
+	text-align: center;
+}
+
+table {
+	width: 80%;
+	margin: 50px auto 25px;
+	background-color: #ccc;
+}
+
+.floatlists {
+	width: 50%;
+	float: left;
+}
+
+.centerdiv {
+	margin: 0 auto;
+	width: 85%;
+}
+
+.circle {
+	width: 190px;
+	height: 190px;
+	background-color: #080;
+	border: 2px solid black;
+	border-radius: 50%;
+	float: left;
+	margin: 50px 5%;
+}
+
+.square {
+	width: 190px;
+	height: 190px;
+	background-color: #808;
+	border: 2px solid black;
+	float: left;
+	margin: 50px 5%;
+}
+
+.picture {
+	width: 190px;
+	height: 190px;
+	background-image: url("bunny.jpg");
+	background-size: 190px 190px;
+	border: 2px solid black;
+	float: left;
+	margin: 50px 5%;
+}
