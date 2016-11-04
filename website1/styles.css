@@ -45,7 +45,6 @@ table {
 	width: 33%;
 	float: left;
 	margin: 50px 0;
-	text-align: center;
 }
 
 .circle {
@@ -70,6 +69,6 @@ table {
 	height: 175px;
 	background-image: url("bunny.jpg");
 	background-size: 190px 190px;
-	border: 2px solid black;
+	border: 2px solid blue;
 	margin: 0 auto;
 }
