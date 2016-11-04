@@ -41,14 +41,20 @@ table {
 	width: 85%;
 }
 
+.thirdfloat {
+	width: 33%;
+	float: left;
+	margin: 50px 0;
+	text-align: center;
+}
+
 .circle {
 	width: 175px;
 	height: 175px;
 	background-color: #080;
 	border: 2px solid black;
 	border-radius: 50%;
-	float: left;
-	margin: 50px 6%;
+	margin: 0 auto;
 }
 
 .square {
@@ -56,8 +62,7 @@ table {
 	height: 175px;
 	background-color: #808;
 	border: 2px solid black;
-	float: left;
-	margin: 50px 6%;
+	margin: 0 auto;
 }
 
 .picture {
@@ -66,6 +71,5 @@ table {
 	background-image: url("bunny.jpg");
 	background-size: 190px 190px;
 	border: 2px solid black;
-	float: left;
-	margin: 50px 6%;
+	margin: 0 auto;
 }
