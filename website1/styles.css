@@ -1,3 +1,7 @@
+body {
+	min-width: 1000px;
+}
+
 h1, h4 {
 	text-align: center;
 }
@@ -38,30 +42,30 @@ table {
 }
 
 .circle {
-	width: 190px;
-	height: 190px;
+	width: 175px;
+	height: 175px;
 	background-color: #080;
 	border: 2px solid black;
 	border-radius: 50%;
 	float: left;
-	margin: 50px 5%;
+	margin: 50px 6%;
 }
 
 .square {
-	width: 190px;
-	height: 190px;
+	width: 175px;
+	height: 175px;
 	background-color: #808;
 	border: 2px solid black;
 	float: left;
-	margin: 50px 5%;
+	margin: 50px 6%;
 }
 
 .picture {
-	width: 190px;
-	height: 190px;
+	width: 175px;
+	height: 175px;
 	background-image: url("bunny.jpg");
 	background-size: 190px 190px;
 	border: 2px solid black;
 	float: left;
-	margin: 50px 5%;
+	margin: 50px 6%;
 }
